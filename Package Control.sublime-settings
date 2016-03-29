@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Dockerfile Syntax Highlighting",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"LaTeXTools",
+		"Origami",
+		"Package Control",
+		"SFTP",
+		"TrailingSpaces",
+		"Vintageous"
+	]
+}

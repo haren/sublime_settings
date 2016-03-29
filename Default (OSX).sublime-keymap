@@ -1,0 +1,5 @@
+[
+	{ "keys": ["cmd+ctrl+i"], "command": "alignment" },
+	{ "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+	{ "keys": ["super+ctrl+t"], "command": "delete_trailing_spaces"}
+]
